@@ -1,0 +1,10 @@
+Evrim 6000
+Gizem 5000
+Isci 4000
+Tuna 2900
+Sarah 2800
+You 2600
+Jennifer 2500
+Amanda 2400
+Ege 1900
+James 1800
